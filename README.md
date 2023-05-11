@@ -9,7 +9,7 @@ Hotel Management Project(C# Windows Forms Application)that utilizes data from/to
 
 Features:
  -Registration to the system
-   - Granting annual permissions by profile by manager or employee
+ -Granting annual permissions by profile by manager or employee
      - check In
        - Book room
          - Manage room & room type
