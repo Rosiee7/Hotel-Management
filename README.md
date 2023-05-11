@@ -9,14 +9,14 @@ C# Windows Forms Application that utilizes data from/to the SQL database.
 
 
 Features:
- -Registration to the system
- -Granting annual permissions by profile by manager or employee
-     - check In
-       - Book room
-         - Manage room & room type
-Receive room
-Workers management
-Receiving specific customer information
-Displaying information about the hotel guests
-Checkout & print invoice
+- Registration to the system
+- Granting annual permissions by profile by manager or employee
+- check In
+- Book room
+- Manage room & room type
+- Receive room
+- Workers management
+- Receiving specific customer information
+- Displaying information about the hotel guests
+- Checkout & print invoice
 
