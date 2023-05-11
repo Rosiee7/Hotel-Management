@@ -1,0 +1,23 @@
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csprojAssemblyReference.cache
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Form1.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Properties.Resources.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.GenerateResource.cache
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.CoreCompileInputs.cache
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.exe.config
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.exe
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.pdb
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.exe
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.pdb
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Dashboard.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Controlers.UserControl1.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Controlers.checkOutController.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Controlers.userControl1_Register1.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Controlers.customerDetailsUserControl1.resources
+C:\Users\meyta\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel_Management.Controlers.UserControlEmployee1.resources
+C:\Users\Rose\Downloads\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csprojAssemblyReference.cache
+C:\Users\Rose\Downloads\Hotel Management\Hotel Management\obj\Debug\Hotel Management.exe
+C:\Users\Rose\Downloads\Hotel Management\Hotel Management\obj\Debug\Hotel Management.pdb
+C:\Users\meyta\OneDrive\Desktop\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\Desktop\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\meyta\OneDrive\Desktop\Hotel Management\Hotel Management\obj\Debug\Hotel Management.exe
+C:\Users\meyta\OneDrive\Desktop\Hotel Management\Hotel Management\obj\Debug\Hotel Management.pdb
