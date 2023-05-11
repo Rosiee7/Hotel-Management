@@ -16,3 +16,6 @@ Features:
 -Receiving specific customer information
 -Displaying information about the hotel guests
 -Checkout & print invoice
+ First list item
+     - First nested list item
+       - Second nested list item
