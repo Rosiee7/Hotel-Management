@@ -4,7 +4,8 @@
 
 
 
-Hotel Management Project(C# Windows Forms Application)that utilizes data from/to the SQL database.
+#Hotel Management Project
+C# Windows Forms Application that utilizes data from/to the SQL database.
 
 
 Features:
